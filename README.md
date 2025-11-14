@@ -1,16 +1,107 @@
-# React + Vite
+## 🚁Vyom Garud – Autonomous UAV Systems Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, fully responsive, animated UAV (Drone) technology website built using **React + Vite**, **TailwindCSS**, **Framer Motion**, and **Lenis smooth scroll**.  
+Designed to showcase Vyom Garud’s autonomous capabilities, modular systems, product highlights, and technology overview.
+---
 
-Currently, two official plugins are available:
+## Preview
+### Destop Preview
+![Desktop Preview](./screenshots/desktop-preview.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Mobile Preview
+![Mobile Preview](./screenshots/mobile-preview.png)
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
+## 🔴Live Demo
+🔗 [View Live Project](https://flashtap-c7rm5ln1m-shubhams-projects-84579036.vercel.app/)
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Features  
+-  **Beautiful UI/UX** designed using TailwindCSS  
+- **Smooth scrolling** with Lenis  
+- **Scroll-triggered animations** with Framer Motion  
+- **Reusable component architecture** 
+- Fully **responsive** on all screen sizes  
+- Modular **cards**, **sections**, and **layouts**  
+- Dark theme with gradient overlays  
+- Proper folder structure for scalable development 
+---
+
+
+## Technologies Used
+
+| Technology | Purpose |
+|----------|----------|
+| **React + Vite** | Frontend framework |
+| **TailwindCSS** | Styling & responsive design |
+| **Framer Motion** | Animations |
+| **Typewriter-effect** | Typing animation |
+| **React Icons** |Icons for components |
+
+---
+
+## UI/UX Overview
+### *1. Visual Style*
+I used a dark theme with orange accents to match the UAV/defense feel of the project.  
+The fonts are modern and clean so the text looks sharp and easy to read.
+
+### *2. Layout & Sections*
+The website is divided into clear sections like **Hero, Services, Products, About, and Contact**.  
+Each section has enough spacing so it doesn’t feel cluttered, and I tried to keep the layout simple and easy to follow.
+
+### *3. Animations*
+I added smooth scrolling using **Lenis** and fade-in animations with **Framer Motion** so the sections appear smoothly when scrolling.  
+The hero heading also includes a **typewriter effect** to make it feel more dynamic.
+
+### *4. Responsive Design*
+I made sure the UI works well on mobile screens by including:
+
+- A mobile-friendly hamburger menu  
+- A separate background image for smaller devices  
+- Responsive grids for the cards  
+
+This keeps the design usable across different screen sizes.
+
+### *5. Reusable Components*
+I created reusable components like **cards, buttons, and section wrappers** to keep the code cleaner and easier to manage as the project grows.
+
+---
+
+---
+## Setup
+
+1. Clone the repository:
+  ```bash
+   git clone https://github.com/shubham-kumar012/vyom-garud.git
+   cd vyom-garud
+  ```
+
+2. Install dependencies
+```bash
+   npm install
+  ```
+
+3. Start the development server
+```bash
+npm run dev
+```
+- The app will run locally at - http://localhost:5173 (if using Vite)
+--- 
+
+
+---
+
+
+
+## Author🙋‍♂️
+**Name:**  Shubham Kumar
+
+**Email:** shubhampal7083@gmail.com
+
+**Github:** [shubham-kumar012](https://github.com/shubham-kumar012)
+
+**LinkedIn:** [Shubham Kumar](https://linkedin.com/in/shubham-kumar-111041267)
+
+
