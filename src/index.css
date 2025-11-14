@@ -1,0 +1,30 @@
+@import 'tailwindcss';
+
+::-webkit-scrollbar { /* for scroll width */
+    width: 5px;
+}
+
+::-webkit-scrollbar-track { /* for scroll background */
+    background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #ff7b00;  /* for scroll color & style */
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover { /* when hover on scroll */
+    background-color: rgba(255, 123, 0, 0.9);
+}
+
+
+@theme {
+  --color-accent: #ff7b00;
+  --color-charcoal: #050C16;
+}
+
+body {
+  background-color: #0b0c10;
+  color: #fff;
+  font-family: 'Poppins', sans-serif;
+}
