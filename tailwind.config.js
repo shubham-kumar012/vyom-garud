@@ -11,7 +11,7 @@ export default {
         accent: "#ff7b00",
       },
       fontFamily: {
-        poppins: ["Poppins", "sans-serif"],
+        poppins: ["Poppins", "inter", "Montserrat"],
         inter: ["Inter", "sans-serif"],
       },
     },
