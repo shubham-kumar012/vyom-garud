@@ -6,10 +6,10 @@ Designed to showcase Vyom Garud’s autonomous capabilities, modular systems, pr
 
 ## Preview
 ### Destop Preview
-![Desktop Preview](./screenshots/desktop-preview.png)
+![Desktop Preview](./screenshots/Desktop-preview.png)
 
 ### Mobile Preview
-![Mobile Preview](./screenshots/mobile-preview.png)
+![Mobile Preview](./screenshots/Mobile-preview.png)
 
 ---
 
