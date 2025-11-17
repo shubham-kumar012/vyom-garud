@@ -1,7 +1,7 @@
 ## 🚁Garud One – Autonomous UAV Systems Website
 
 A modern, fully responsive, animated UAV (Drone) technology website built using **React + Vite**, **TailwindCSS**, **Framer Motion**, and **Lenis smooth scroll**.  
-Designed to showcase Vyom Garud’s autonomous capabilities, modular systems, product highlights, and technology overview.
+Designed to showcase Garud One autonomous capabilities, modular systems, product highlights, and technology overview.
 ---
 
 ## Preview
