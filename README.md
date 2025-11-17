@@ -1,7 +1,7 @@
-## 🚁Garud One – Autonomous UAV Systems Website
+## 🚁Vyom Garud – Autonomous UAV Systems Website
 
 A modern, fully responsive, animated UAV (Drone) technology website built using **React + Vite**, **TailwindCSS**, **Framer Motion**, and **Lenis smooth scroll**.  
-Designed to showcase Garud One autonomous capabilities, modular systems, product highlights, and technology overview.
+Designed to showcase Vyom Garud's autonomous capabilities, modular systems, product highlights, and technology overview.
 ---
 
 ## Preview
@@ -15,7 +15,7 @@ Designed to showcase Garud One autonomous capabilities, modular systems, product
 
 
 ## 🔴Live Demo
-🔗 [View Live Project](https://garud-one-git-main-shubhams-projects-84579036.vercel.app?_vercel_share=K2dr3ur9HR5lCKGAgG9CODCKSxdGlhTg)
+🔗 [View Live Project](https://vyom-garud-git-main-shubhams-projects-84579036.vercel.app?_vercel_share=IqCd1HwgcuMeZH4pQwDJt604ttwf4s85)
 ---
 
 ## Features  
@@ -74,7 +74,7 @@ I created reusable components like **cards, buttons, and section wrappers** to k
 
 1. Clone the repository:
   ```bash
-   git clone https://github.com/shubham-kumar012/garud-one.git
+   git clone https://github.com/shubham-kumar012/vyom-garud.git
    cd vyom-garud
   ```
 
