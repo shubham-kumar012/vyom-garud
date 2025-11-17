@@ -25,8 +25,8 @@ function Navbar() {
 
             {/* Website Logo */}
             <div className="text-2xl font-bold" onClick={() => scrollTo('home')}>
-                <span className="text-white">Vyom</span>
-                <span className="text-accent">Garud</span>
+                <span className="text-white">Garud</span>
+                <span className="text-accent">One</span>
             </div>
 
             {/* Desktop menu */}

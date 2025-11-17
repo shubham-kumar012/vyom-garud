@@ -16,8 +16,8 @@ export default function Footer() {
 
                     {/* Logo */}
                     <div className="flex items-center" onClick={() => scrollTo('Home')}>
-                        <span className="text-xl font-semibold">Vyom</span>
-                        <span className="text-xl font-semibold text-accent" >Garud</span>
+                        <span className="text-xl font-semibold">Garud</span>
+                        <span className="text-xl font-semibold text-accent" >One</span>
                     </div>
 
                     {/* Navigation Links */}

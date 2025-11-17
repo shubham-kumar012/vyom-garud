@@ -7,7 +7,7 @@ export default function Contact() {
         <section id="Contact" className="py-20 bg-charcoal text-center px-6">
             <SectionWrapper>
                 <SectionInfo
-                    title={"Contact VyomGarud"}
+                    title={"Contact GarudOne"}
                     description={"Reach our for inquiries, collaborations, or demo request."}
                 />
 
