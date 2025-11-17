@@ -6,7 +6,7 @@ export default function About() {
         <section id="About" className="py-20 bg-charcoal text-center px-6">
             <SectionWrapper>
                 <SectionInfo
-                    title={'About Garud One'}
+                    title={'About VyomGarud'}
                     description={'Engineering the future of autonomous flight'}
                 />
 
